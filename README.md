@@ -1,5 +1,8 @@
 # Image-Classification
 
+## Dataset
+  - Given by the University
+
 ## Goal
 
   - Visual Perception of the image dataset using manual
